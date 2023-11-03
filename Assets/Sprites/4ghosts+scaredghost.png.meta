@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 016d132db5054af429c3c3fe0c9d0db4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2eed6a55d4804785ff2c4dda2cc61
+      internalID: -1841396851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e68d45af6a686408a543222166bffb
+      internalID: -1927007714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f852d6cc4ddb48b14ea04baffef51
+      internalID: -1079421242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e169b54ecce6643bd04fc72409fe2e
+      internalID: 515370018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b8b19637809204f8d4ffa058ca2e39
+      internalID: -1063937792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 170
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b68b0523385f47bf9df4fc1706988
+      internalID: -1647479821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97cb0fe372499e4f8424f8dc97207d5
+      internalID: -1440868570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006311a21e01f44a934e5227fd8d690
+      internalID: 770177607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3080ea2979ddc43b8e31026a67eb91
+      internalID: 2000750001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf0cd10bdb51c4bb8186328defc1dd
+      internalID: -774737216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2234bec555fa9aa42a6576a700005465
+      internalID: -39075443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d240aad6518a4ebabd0aecc03352f
+      internalID: -1047641131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6bbb842f4bbc47bc253baa4afa8b1
+      internalID: -1162176653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a932f1dabaa18743890b787859cd2d7
+      internalID: -1676797494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac0be2d7c456e4795bcc3ea33c5968
+      internalID: 1702253395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed334fcca0358774985784ebbe0e0985
+      internalID: 715589434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc4cce76ecd08f4d989a9e4c6ef1a57
+      internalID: -187211274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ee600337723848b1fccd1e39dd152
+      internalID: -1393317142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71bdbd86311b54a93cc1fd786d2853
+      internalID: 1281782076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea91c249b9c0874f86dfa2ea2961a9a
+      internalID: -1201119200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d06b2c9e6e33443a19a15ca2f31a56
+      internalID: 1963248155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7e82cd4b8272438a264379ed4b922
+      internalID: -791010176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21e10108f6e4b4fb47a6919f8ef1e4
+      internalID: 594834192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92386bfd9d953242a1717095e6d3863
+      internalID: 771100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be212663b5970444e8affd7466a1054e
+      internalID: -805901244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fca9cecb881b84d80f74f392574f5b
+      internalID: 314781348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe18c4cb5eac64f996ba3ef679fd35
+      internalID: 1337234457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154157513d324f48b388e5eeb8c00b6
+      internalID: 757207186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07603802f7b2771439320808bca68dfa
+      internalID: 426132379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce42147b9c8ee8419eba381da8c7c87
+      internalID: 1783106605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fcb94edc5bf0941a497a909696fede
+      internalID: 1288491303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0bf3de8017b454f9b16ba2c3e7a1a8
+      internalID: -1201308461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ba047b8daa4b4f8c6eb1ad9dba243
+      internalID: -1530704977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b755c5010c912b409738eefea7b22be
+      internalID: -2038320998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ghosts+scaredghost_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac5e75f03041147b09b4714e56253b
+      internalID: -1731590127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4ghosts+scaredghost_0: -1841396851
+      4ghosts+scaredghost_1: -1927007714
+      4ghosts+scaredghost_10: -39075443
+      4ghosts+scaredghost_11: -1047641131
+      4ghosts+scaredghost_12: -1162176653
+      4ghosts+scaredghost_13: -1676797494
+      4ghosts+scaredghost_14: 1702253395
+      4ghosts+scaredghost_15: 715589434
+      4ghosts+scaredghost_16: -187211274
+      4ghosts+scaredghost_17: -1393317142
+      4ghosts+scaredghost_18: 1281782076
+      4ghosts+scaredghost_19: -1201119200
+      4ghosts+scaredghost_2: -1079421242
+      4ghosts+scaredghost_20: 1963248155
+      4ghosts+scaredghost_21: -791010176
+      4ghosts+scaredghost_22: 594834192
+      4ghosts+scaredghost_23: 771100413
+      4ghosts+scaredghost_24: -805901244
+      4ghosts+scaredghost_25: 314781348
+      4ghosts+scaredghost_26: 1337234457
+      4ghosts+scaredghost_27: 757207186
+      4ghosts+scaredghost_28: 426132379
+      4ghosts+scaredghost_29: 1783106605
+      4ghosts+scaredghost_3: 515370018
+      4ghosts+scaredghost_30: 1288491303
+      4ghosts+scaredghost_31: -1201308461
+      4ghosts+scaredghost_32: -1530704977
+      4ghosts+scaredghost_33: -2038320998
+      4ghosts+scaredghost_34: -1731590127
+      4ghosts+scaredghost_4: -1063937792
+      4ghosts+scaredghost_5: -1647479821
+      4ghosts+scaredghost_6: -1440868570
+      4ghosts+scaredghost_7: 770177607
+      4ghosts+scaredghost_8: 2000750001
+      4ghosts+scaredghost_9: -774737216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

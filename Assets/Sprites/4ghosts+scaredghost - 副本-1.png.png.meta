@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: eae7e5a5bc0abaa49af43aea92f27cd7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_0"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed033d12ded04468cf8a08b8179cc8
+      internalID: 706282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_1"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef4d2df8692b244ad6112e27f580c1
+      internalID: -856742583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_2"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5602c315d053a49a2297147068f97d
+      internalID: -340123316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_3"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26ce9bef0f8614b901b5e97ca918c6
+      internalID: 661447154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_4"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67438a688645e9b46a9718368e5c6d61
+      internalID: -1266658256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_5"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c727bb5d536840b3b7c428c96fe5e
+      internalID: 1952653203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_6"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f1bee17b55c646afad83e95594471
+      internalID: -174355705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_7"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 138
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b296a72b01df45afc1d7bfe8dc3ba
+      internalID: -1821270447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_8"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c9de7ff6e24b64e9effd11ebeb3d33
+      internalID: 1672984469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_9"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f367c3fe40d5448ae5d799e55f8432
+      internalID: -1483071794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_10"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948bc6fe7de6b9f419109310c0d5d652
+      internalID: -2023114397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_11"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18df60ec81d5f4e9a07380273cfc64
+      internalID: 114113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_12"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d9300021781d4dbfbde52bcd66118
+      internalID: 355527492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_13"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3a9a821de84743bf5fa2d23d424e3
+      internalID: 565177365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_14"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81371b7c466383479badd2277c3588b
+      internalID: 872112179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_15"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709e19838f6a0f4c9de32aac21cbf21
+      internalID: 1427553845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_16"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e6d1e83d14ae498b1d6b1bde0e09c
+      internalID: -457714985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_17"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940cfa49f1c6664785f16d159a25b06
+      internalID: -115248350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_18"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880dec3f944dc6d4f9d28ba668ee6e9f
+      internalID: -368414452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_19"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f698b13f9ad504ba9eddbd1e8eba0c
+      internalID: 1246398403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_20"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d63d3b98b6ffe4eac4fbe6da45f40e
+      internalID: 1938818679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_21"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa417b85e8ed7e4ba3693748d6f434a
+      internalID: 961814917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_22"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0cf1b27d2bbd4991908b190b69a27
+      internalID: -1313956542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_23"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebf3daed9bae044a9f8643a327b43df
+      internalID: 964622909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_24"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb3ec2ed21c4f4eb9365ecd4369573
+      internalID: 1011652516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_25"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd257aaf34237429c107e8b4741acc
+      internalID: 1175260061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_26"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea8fd3daf66944b8f78d835808e611
+      internalID: 963417778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_27"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d896f0438ff7414bb1ed3ef0c636120
+      internalID: 93309145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_28"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42d97b2ebda3fa41b8a2b4e0938fa0b
+      internalID: -453450484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_29"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ea89df40658443acd92b9169a3ec4
+      internalID: 685896347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_30"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686c007daeba6e4a8a95af87316d747
+      internalID: 250226985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_31"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ade96e5a277ef4fb7825e63916e209
+      internalID: 1303081057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_32"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd661f3f19f90d4c805ac4d3421a6aa
+      internalID: 1537756310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_33"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23ab066a7f4fb418b380b948efbd7e
+      internalID: -2053261871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "4ghosts+scaredghost - \u526F\u672C-1.png_34"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155c47760afa8344aca672ace521be0
+      internalID: 1608918676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "4ghosts+scaredghost - \u526F\u672C-1.png_0": 706282
+      "4ghosts+scaredghost - \u526F\u672C-1.png_1": -856742583
+      "4ghosts+scaredghost - \u526F\u672C-1.png_10": -2023114397
+      "4ghosts+scaredghost - \u526F\u672C-1.png_11": 114113251
+      "4ghosts+scaredghost - \u526F\u672C-1.png_12": 355527492
+      "4ghosts+scaredghost - \u526F\u672C-1.png_13": 565177365
+      "4ghosts+scaredghost - \u526F\u672C-1.png_14": 872112179
+      "4ghosts+scaredghost - \u526F\u672C-1.png_15": 1427553845
+      "4ghosts+scaredghost - \u526F\u672C-1.png_16": -457714985
+      "4ghosts+scaredghost - \u526F\u672C-1.png_17": -115248350
+      "4ghosts+scaredghost - \u526F\u672C-1.png_18": -368414452
+      "4ghosts+scaredghost - \u526F\u672C-1.png_19": 1246398403
+      "4ghosts+scaredghost - \u526F\u672C-1.png_2": -340123316
+      "4ghosts+scaredghost - \u526F\u672C-1.png_20": 1938818679
+      "4ghosts+scaredghost - \u526F\u672C-1.png_21": 961814917
+      "4ghosts+scaredghost - \u526F\u672C-1.png_22": -1313956542
+      "4ghosts+scaredghost - \u526F\u672C-1.png_23": 964622909
+      "4ghosts+scaredghost - \u526F\u672C-1.png_24": 1011652516
+      "4ghosts+scaredghost - \u526F\u672C-1.png_25": 1175260061
+      "4ghosts+scaredghost - \u526F\u672C-1.png_26": 963417778
+      "4ghosts+scaredghost - \u526F\u672C-1.png_27": 93309145
+      "4ghosts+scaredghost - \u526F\u672C-1.png_28": -453450484
+      "4ghosts+scaredghost - \u526F\u672C-1.png_29": 685896347
+      "4ghosts+scaredghost - \u526F\u672C-1.png_3": 661447154
+      "4ghosts+scaredghost - \u526F\u672C-1.png_30": 250226985
+      "4ghosts+scaredghost - \u526F\u672C-1.png_31": 1303081057
+      "4ghosts+scaredghost - \u526F\u672C-1.png_32": 1537756310
+      "4ghosts+scaredghost - \u526F\u672C-1.png_33": -2053261871
+      "4ghosts+scaredghost - \u526F\u672C-1.png_34": 1608918676
+      "4ghosts+scaredghost - \u526F\u672C-1.png_4": -1266658256
+      "4ghosts+scaredghost - \u526F\u672C-1.png_5": 1952653203
+      "4ghosts+scaredghost - \u526F\u672C-1.png_6": -174355705
+      "4ghosts+scaredghost - \u526F\u672C-1.png_7": -1821270447
+      "4ghosts+scaredghost - \u526F\u672C-1.png_8": 1672984469
+      "4ghosts+scaredghost - \u526F\u672C-1.png_9": -1483071794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
