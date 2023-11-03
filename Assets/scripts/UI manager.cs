@@ -67,6 +67,14 @@ public class UIManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+    public void LoadStartScene()
+    {
+        SceneManager.LoadScene("StartScene");
+
+        DontDestroyOnLoad(gameObject);
+
+    }
+
     public void QuitGame()
     {
         Debug.Log("Quit button clicked");
@@ -88,7 +96,7 @@ public class UIManager : MonoBehaviour
             {
                 Button buttonComponent = quitButton.GetComponent<Button>();
 
-                buttonComponent.onClick.AddListener(QuitGame);
+                buttonComponent.onClick.AddListener(LoadStartScene);
             }
         }
     }
